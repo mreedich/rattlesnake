@@ -1,6 +1,6 @@
 # Title: LG Channels Blocklist
 # Updated: 2026-11-04 12:25 EST
-# Entries: 49
+# Entries: 50
 # License: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
 
 ads.lgtvcommon.com
@@ -52,3 +52,4 @@ lgtvonline.lge.com
 rdx2.lgtvsdp.com
 recommend.lgtvcommon.com
 service.lgtvcommon.com
+us.emp.lgsmartplatform.com
