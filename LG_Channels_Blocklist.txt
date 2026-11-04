@@ -53,3 +53,4 @@ rdx2.lgtvsdp.com
 recommend.lgtvcommon.com
 service.lgtvcommon.com
 us.emp.lgsmartplatform.com
+aic.tv.wiselg.com/
